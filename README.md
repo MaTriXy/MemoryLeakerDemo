@@ -2,9 +2,8 @@
 Sample Application together with my lecture about Android RAM and memory.
 
 
- * SampleLeaks.java was Created by alexjlockwood
- * https://github.com/alexjlockwood/leaky-threads
- * I'm using this sample as well as other samples i've made to explain and showcase points in my lecture.
+ * SampleLeaks.java was Created by alexjlockwood - https://github.com/alexjlockwood/leaky-threads
+  * I'm using this sample as well as other samples i've made to explain and showcase points in my lecture.
  
 
 
